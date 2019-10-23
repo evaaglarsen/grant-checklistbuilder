@@ -1,0 +1,26 @@
+.topNav{
+    background-color: darkred;
+    border-width: 50px;
+    height: 80px;
+    border: solid black;
+    border-width: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+.topNav a:visited{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+h2{
+    font-weight: 400;
+}
